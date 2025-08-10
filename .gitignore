@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+mnist/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore model checkpoints (optional)
+*.h5
+*.keras
+*.ckpt
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs and outputs
+*.log
+*.out
+
+# Ignore environment files (optional)
+.env
