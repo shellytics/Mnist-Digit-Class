@@ -7,7 +7,7 @@ __pycache__/
 *.py[cod]
 *.so
 
-# Ignore model checkpoints (optional)
+# Ignore model checkpoints
 *.h5
 *.keras
 *.ckpt
@@ -19,5 +19,5 @@ __pycache__/
 *.log
 *.out
 
-# Ignore environment files (optional)
+# Ignore environment files 
 .env
